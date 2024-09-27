@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Born in 2000, dream to be cs leader.
+
 <!--
 **Bakuteria-Ocha/Bakuteria-Ocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
